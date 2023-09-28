@@ -6,7 +6,7 @@
 
 ❤️ PL, compilers, computer architecture
 
-👨‍🎓 Graduate student, Peking University
+💼 Compiler developer, Alibaba Cloud
 
 <details>
   <summary>PGP Public Key</summary>
